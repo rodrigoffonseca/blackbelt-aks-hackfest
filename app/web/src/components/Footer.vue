@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Marvel Rules!!! Avengers >>>> ALL (Powered by BRIGADE)
+        Marvel Rules!!! Avengers >>>> ALL (Deployment Powered by BRIGADE)
       </div>
       <div class="col-lg-6">
       </div>
