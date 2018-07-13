@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Marvel Rules!!! Avengers > JL (Powered by BRIGADE)
+        PRE READY BOOTCAMP (Powered by BRIGADE)
       </div>
       <div class="col-lg-6">
       </div>
